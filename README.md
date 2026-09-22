@@ -1,6 +1,6 @@
 Trabalho-ProcessamentoDeImagens
 
-Disciplina: Processamento Digital de Imagens Professor: Marcio Salmazo Ramos Aluno: Victor Rubio
+Disciplina: Processamento Digital de Imagens Professor: Marcio Salmazo Ramos, Aluno: Victor Hugo Silva Rubio RA: 5170321
 
 Sobre o trabalho
 
